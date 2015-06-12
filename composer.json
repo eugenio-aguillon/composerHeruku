@@ -1,0 +1,8 @@
+{
+	"name": "desarrolloweb/probando-composer-lunes",
+	"require": {
+		"phpmailer/phpmailer": "5.*",
+		"raveren/kint": "0.9",
+		"tinymce/tinymce": "dev-master"
+	}
+}
